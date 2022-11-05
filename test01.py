@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Helium Test要画面')
+st.title('Helium Test用画面')
 
 tab1, tab2, tab3, tab4 = st.tabs(['Cat', 'Dog', 'Fox', 'Hamster'])
 col11, col12, col13, col14 = st.columns((2, 3, 5, 3))
